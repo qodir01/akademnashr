@@ -10,6 +10,7 @@
   color: #000;
   text-transform: uppercase;
   text-decoration: none;
+  list-style: none;
 }
 .main-link{
   background-color: #FF7500;
